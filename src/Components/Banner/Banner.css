@@ -1,0 +1,10 @@
+.BannerWrapper{
+    width: 100%;
+    height: 40px;
+    background-color: #2C2D3A;
+    color: aliceblue;
+    font-weight: 500;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

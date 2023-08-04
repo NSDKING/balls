@@ -1,0 +1,17 @@
+.VotePage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3D3C43;
+    height:   1000px;
+    
+}
+
+#cat{
+    color: white;
+    font-size: 32px;
+}
+.links{
+    text-align: center;
+    color: #FFF4BB;
+}
